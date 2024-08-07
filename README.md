@@ -38,10 +38,10 @@ pip install tqdm
 
 | Model                                                                                | mAP<sup>val<br>50-95 | mAP<sup>val<br>50 | params<br><sup>(M) | FLOPs<br><sup>@640 (B) |
 |--------------------------------------------------------------------------------------|----------------------|-------------------|--------------------|------------------------|
-| [YOLOv5n](https://github.com/Shohruh72/YOLO-v5/releases/download/v.1.0.0/yolov5n.pt) | 28.0                 | 45.7              | **1.9**            | **4.5**                |
-| [YOLOv5s](https://github.com/Shohruh72/YOLO-v5/releases/download/v.1.0.0/yolov5s.pt) | 37.4                 | 56.8              | 7.2                | 16.5                   |
-| [YOLOv5m](https://github.com/Shohruh72/YOLO-v5/releases/download/v.1.0.0/yolov5m.pt) | 45.4                 | 64.1              | 21.2               | 49.0                   |
-| [YOLOv5l](https://github.com/Shohruh72/YOLO-v5/releases/download/v.1.0.0/yolov5l.pt) | 49.0                 | 67.3              | 46.5               | 109.1                  | 50.7                 | 68.9              | 86.7               | 205.7                  |
+| [YOLOv5n](https://github.com/Shohruh72/YOLOv5/releases/download/v.1.0.0/yolov5n.pt) | 28.0                 | 45.7              | **1.9**            | **4.5**                |
+| [YOLOv5s](https://github.com/Shohruh72/YOLOv5/releases/download/v.1.0.0/yolov5s.pt) | 37.4                 | 56.8              | 7.2                | 16.5                   |
+| [YOLOv5m](https://github.com/Shohruh72/YOLOv5/releases/download/v.1.0.0/yolov5m.pt) | 45.4                 | 64.1              | 21.2               | 49.0                   |
+| [YOLOv5l](https://github.com/Shohruh72/YOLOv5/releases/download/v.1.0.0/yolov5l.pt) | 49.0                 | 67.3              | 46.5               | 109.1                  | 50.7                 | 68.9              | 86.7               | 205.7                  |
 
 ### Dataset structure
 
